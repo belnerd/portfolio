@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": "a1",
+      "header": "Scrooge's Bitcoin App",
+      "description": "Vincit Rising Star pre-assignment, an app to view/analyze Bitcoin historical data.",
+      "link": "https://github.com/belnerd/scrooges-bitcoin",
+      "demo": "https://scrooges-bitcoin.herokuapp.com/",
+      "img": "./images/scrooge.png"
+    },
+    {
+      "id": "a2",
+      "header": "Notes - Feathers app",
+      "description": "Fullstack project: Simple notes app with authentication that uses Vue, Vuetify, Feathers and MongoDB",
+      "link": "https://github.com/belnerd/feathers-notesapp",
+      "demo": "https://muistioapp.herokuapp.com/",
+      "img": "./images/feathers.png"
+    },
+    {
+      "id": 1,
+      "header": "Database course project",
+      "description": "A project I did for a database course, summer 2021",
+      "link": "https://student.labranet.jamk.fi/~AB5123/tietokannat/levymoguli/docs/documentation.html",
+      "img": "./images/databases.png"
+    },
+    {
+      "id": 2,
+      "header": "Web server programming course project",
+      "description": "A project to create back- and frontend for the database course's database, summer 2021",
+      "link": "https://student.labranet.jamk.fi/~AB5123/levymoguli/documentation.html",
+      "img": "./images/databaseUI.png"
+    },
+    {
+      "id": 3,
+      "header": "Web programming course project",
+      "description": "A project that gets weather camera data from an API and displays it, summer 2021",
+      "link": "https://student.labranet.jamk.fi/~AB5123/kelikamerat/docs/documentation.html",
+      "img": "./images/kelikamera.png"
+    },
+    {
+      "id": 4,
+      "header": "Basics of Python programming course project",
+      "description": "A project for Python programming course, summer 2021",
+      "link": "https://github.com/belnerd/ttc2030/tree/master/harjoitustyo",
+      "img": "./images/python.png"
+    },
+    {
+      "id": 5,
+      "header": "React.js and Node.js course project",
+      "description": "A website for a restaurant with admin login and menu editing, summer 2021",
+      "link": "https://gitlab.labranet.jamk.fi/AB5123/ravintola",
+      "img": "./images/react.png"
+    }
+  ]
+}

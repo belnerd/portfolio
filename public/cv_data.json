@@ -1,0 +1,99 @@
+{
+  "work": [
+    {
+      "id": "w1",
+      "header": "Gamers Unite Oy, internship, frontend developer",
+      "subtitle": "11.10.2021 - 12.12.2021",
+      "description": [
+        "This internship was a part of my studies at JAMK.fi. Did some updates and form validation on bittiliiga.fi website.",
+        "Had the change to learn new technologies like Vue, Vuetify, Feathers and Nuxt."
+      ],
+      "img": "./images/gamersunite.png",
+      "url": "https://www.gamersunite.fi"
+    },
+    {
+      "id": "w2",
+      "header": "Verkkokauppa.com Pirkkala, assistant store manager",
+      "subtitle": "1.2.2017 - 21.9.2021",
+      "description": [
+        "Besides sales and customer service my responsibilities included planning daily schedules for staff, recruitment, stock management, introduction of new employees and weekly staff meetings.",
+        "I was proud to be a part of numerous projects making the stores and systems better for customers and employees.",
+        "As a senior employee with a lot of experience I was able to do any job available at the store. I felt that my employees could always rely on me helping them."
+      ],
+      "img": "./images/verkkokauppa.png",
+      "url": "https://www.verkkokauppa.com"
+    },
+    {
+      "id": "w3",
+      "header": "Verkkokauppa.com Pirkkala, shift manager",
+      "subtitle": "7.3.2011 - 31.1.2017",
+      "description": [
+        "As a shift manager I was responsible for opening, closing and keeping the store running smoothly as possible. Naturally I also did my part in sales and customer service.",
+        "I was kind of a Jack of all trades here."
+      ],
+      "img": "./images/verkkokauppa.png",
+      "url": "https://www.verkkokauppa.com"
+    },
+    {
+      "id": "w4",
+      "header": "Verkkokauppa.com Pirkkala, sales person",
+      "subtitle": "4.5.2009 - 6.3.2011",
+      "description": [
+        "I started my fairly long Verkkokauppa.com career as a sales person able to sell and provide quality customer service on any department at the store."
+      ],
+      "img": "./images/verkkokauppa.png",
+      "url": "https://www.verkkokauppa.com"
+    },
+    {
+      "id": "w5",
+      "header": "Tekniset Viitasaari, sales person",
+      "subtitle": "11.4.2007 - 22.8.2008",
+      "description": [
+        "At Tekniset I sold home appliances and electronics, did home deliveries and installations, fixed PCs and gave some basic user support. Maintained the stores IT (POS, backups etc.)."
+      ],
+      "img": "./images/tekniset.png",
+      "url": "https://www.euronics.fi/i/viitasaari/169/"
+    },
+    {
+      "id": "w6",
+      "header": "Datanator Pihtipudas, self employed",
+      "subtitle": "1.9.2005 - 10.4.2007",
+      "description": [
+        "I had a small computer shop at Pihtipudas where I sold and repaired PCs, printers and such. Also gave user support and did house calls for consumers and companies alike.",
+        "The shop was part of a franchise with a slogan \"Multitool of IT\" which I think describes me quite well."
+      ],
+      "img": "./images/datanator.png"
+    }
+  ],
+  "education": [
+    {
+      "id": "e1",
+      "header": "Jyväskylä University of Applied Sciences",
+      "title": "Modern software development",
+      "subtitle": "4.5.2021 - 22.12.2021",
+      "description": [
+        "This was an employment course by TE-services to learn new skills or update existing ones.",
+        "Courses I took: Basics of Linux, Basics of programming (Python), Git version control, Basics of databases, Web programming, Web server programming",
+        "I also took part in a series of lectures that covered: Javascript, React, Nodejs, Docker, Cloud services (Google) & Kubernetes, Ansible, CI/CD"
+      ]
+    },
+    {
+      "id": "e2",
+      "header": "Jämsän seudun koulutuskeskus",
+      "title": "ICT services and marketing, datanome",
+      "subtitle": "6.8.2003 - 28.5.2005",
+      "description" : [
+        "Studies included marketing, web (HTML/CSS) and application programming (C++), servers and networking, MS Office and different operating systems."
+      ]
+    },
+    {
+      "id": "e3",
+      "header": "Jämsän lukio",
+      "title": "Matriculation examination",
+      "subtitle": "14.8.1996 - 5.6.1999",
+      "description": [
+        "Well, I did like the courses related to computers. Also english courses were nice."
+      ]
+    }
+  ]
+}
