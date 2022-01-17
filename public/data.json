@@ -5,7 +5,8 @@
       "header": "Rock, paper, scissors games viewer",
       "description": "Reaktor 2022 pre-assignment for developers",
       "link": "https://github.com/belnerd/rps-viewer",
-      "demo": "https://rps-viewer.herokuapp.com/"
+      "demo": "https://rps-viewer.herokuapp.com/",
+      "img": "./images/rpsviewer.png"
     },
     {
       "id": "a1",
