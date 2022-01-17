@@ -41,3 +41,9 @@ export default {
   name: 'Portrait',
 };
 </script>
+
+<style scoped>
+a {
+  text-decoration: none;
+}
+</style>
